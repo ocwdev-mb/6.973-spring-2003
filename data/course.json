@@ -1,0 +1,60 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Biotechnology"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Microtechnology"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Microtechnology"
+    ],
+    [
+      "Engineering",
+      "Nanotechnology"
+    ]
+  ],
+  "legacy_uid": "76211a73-3794-83bd-ef66-3e120dce6562",
+  "instructors": {
+    "content": [
+      "620529f0-ca16-4e61-1ea9-661786f484fc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "28b70f8a-67ae-d027-0ee2-c330e23a96ff",
+    "website": "6-973-organic-optoelectronics-spring-2003"
+  },
+  "course_title": "Organic Optoelectronics",
+  "course_description": "The course examines optical and electronic processes in organic molecules and polymers that govern the behavior of practical organic optoelectronic devices. Electronic structure of a single organic molecule is used as a guide to the electronic behavior of organic aggregate structures. Emphasis is placed on the use of organic thin films in active organic devices including organic LEDs, solar cells, photodetectors, transistors, chemical sensors, memory cells, electrochromic devices, as well as xerography and organic non-linear optics. How to reach the ultimate miniaturization limit of molecular electronics and related nanoscale patterning techniques of organic materials will also be discussed. The class encompasses three laboratory sessions during which the students will practice the use of select vacuum and non-vacuum organic deposition techniques by making their own active organic devices.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.973",
+  "course_image_thumbnail": {
+    "content": "3fd028d4-e2fc-75fd-167f-23f92ff6c47a",
+    "website": "6-973-organic-optoelectronics-spring-2003"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "f2d020fa-4e50-488c-b926-341ac15fed6c",
+  "site_short_id": "6.973-spring-2003",
+  "title": "Course Metadata"
+}
